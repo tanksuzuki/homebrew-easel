@@ -1,2 +1,2 @@
 # homebrew-easel
-brew formula for easel
+brew formula for [easel](https://github.com/tanksuzuki/easel)
